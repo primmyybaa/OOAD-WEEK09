@@ -46,7 +46,7 @@ class book
 diagram
 <img src ="https://github.com/primmyybaa/OOAD-WEEK09/blob/master/Homework/class7.png?raw=true">
 
- ###3
+###3
  ```
  @startuml
 class humen {
